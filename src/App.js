@@ -10,7 +10,7 @@ function App() {
         <h1>Welcome to React</h1>
       </header>
       <p className="App-intro">
-        I was here!
+        I'm in AWS Now!
       </p>
     </div>
   );
